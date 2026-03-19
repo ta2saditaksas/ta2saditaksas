@@ -10,18 +10,37 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science student  
-- 💡 Interested in AI, cybersecurity & development  
+- 💡 Interested in AI, cybersecurity & operating systems  
 - 🧠 I love solving problems and building projects  
 - 🔍 Always learning something new  
 - ⚡ Fun fact: My name means HAPPPYYYYY in my native language 🎨  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,linux,vscode" />
-</p>
+![C](https://img.shields.io/badge/C-blue?logo=c)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![OCaml](https://img.shields.io/badge/OCaml-orange)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
+
+---
+
+## ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?logo=githubactions)
+
+---
+## 💻 Systems & Tools
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Bash](https://img.shields.io/badge/Bash-green?logo=gnubash)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
 
 ---
 
