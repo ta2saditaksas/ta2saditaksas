@@ -66,7 +66,7 @@
 ## O.O
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tassadit/tassadit/main/tumblr_6928b7bfbeb136a05467dc6f1b23a44e_c89ff1f2_1280.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/tassadit/tassadit/main/pic.gif" width="700"/>
 </p>
 
 ## ⏳ Auto Update Section
