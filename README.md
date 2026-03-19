@@ -66,7 +66,7 @@
 ## O.O
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ta2saditaksas/tassadit/main/pic.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/ta2saditaksas/ta2saditaksas/main/pic.gif" width="700"/>
 </p>
 
 ## ⏳ Auto Update Section
