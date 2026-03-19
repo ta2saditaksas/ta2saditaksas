@@ -13,7 +13,7 @@
 - 💡 Interested in AI, cybersecurity & operating systems  
 - 🧠 I love solving problems and building projects  
 - 🔍 Always learning something new  
-- ⚡ Fun fact: My name means HAPPPYYYYY in my native language 🎨  
+- ⚡ Fun fact: My name means HAPPPYYYYY in my native language (❁´◡`❁) 
 
 ---
 
@@ -68,19 +68,4 @@
 
 <!--AUTO_UPDATE_START-->
 Last update: Thu Mar 19 22:24:26 UTC 2026
-<!--AUTO_UPDATE_END-->## Hi there 👋
-
-<!--
-**ta2saditaksas/ta2saditaksas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--AUTO_UPDATE_END-->
