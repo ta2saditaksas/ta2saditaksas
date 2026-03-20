@@ -9,11 +9,9 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student  
-- 💡 Interested in AI, cybersecurity & operating systems  
-- 🧠 I love solving problems and building projects  
+- 🎓 Computer Science student @ Sorbonne Université
 - 🔍 Always learning something new  
-- ⚡ Fun fact: My name means HAPPPYYYYY in my native language (❁´◡`❁) 
+-  Fun fact: My name means HAPPPYYYYY in my native language (❁´◡`❁) 
 
 ---
 
