@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Science Student | Building cool things & exploring AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tassadit&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ta2saditaksas&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -45,11 +45,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tassadit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ta2saditaksas&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassadit&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta2saditaksas&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🔥 Streak & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tassadit&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ta2saditaksas&theme=tokyonight" />
 </p>
 
 ---
