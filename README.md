@@ -36,7 +36,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu)
-![Bash](https://img.shields.io/badge/Bash-green?orange=gnubash)
+![Bash](https://img.shields.io/badge/Bash-orange?logo=gnubash)
 ![Git](https://img.shields.io/badge/Git-yellow?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-purple?logo=visualstudiocode)
