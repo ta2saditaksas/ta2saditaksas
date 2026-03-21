@@ -19,7 +19,7 @@
 
 ![C](https://img.shields.io/badge/C-blue?logo=c)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![OCaml](https://img.shields.io/badge/OCaml-orange)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
 
@@ -35,9 +35,9 @@
 ## 💻 Systems & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu)
-![Bash](https://img.shields.io/badge/Bash-green?logo=gnubash)
-![Git](https://img.shields.io/badge/Git-red?logo=git)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu)
+![Bash](https://img.shields.io/badge/Bash-green?orange=gnubash)
+![Git](https://img.shields.io/badge/Git-yellow?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-purple?logo=visualstudiocode)
 ![Eclipse](https://img.shields.io/badge/Eclipse-orange?logo=eclipseide)
