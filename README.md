@@ -35,10 +35,14 @@
 ## 💻 Systems & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu)
 ![Bash](https://img.shields.io/badge/Bash-green?logo=gnubash)
 ![Git](https://img.shields.io/badge/Git-red?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/VSCode-purple?logo=visualstudiocode)
+![Eclipse](https://img.shields.io/badge/Eclipse-orange?logo=eclipseide)
+![Modelio](https://img.shields.io/badge/Modelio-grey)
+
 
 ---
 
