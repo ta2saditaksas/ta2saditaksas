@@ -60,6 +60,10 @@
 </p>
 
 ---
+<a href="linkedin.com/in/tassadit-aksas" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="Linkedin" /> 
+</a>
+---
 ## O.O
 
 <p align="center">
