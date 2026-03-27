@@ -15,34 +15,33 @@
 
 ---
 
-## 🧠 Programming Languages
+<h2 align="left">🧠 Programming Languages</h2> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="40" height="40" alt="OCaml Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL Logo" />
+</div>
 
-![C](https://img.shields.io/badge/C-blue?logo=c)
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![OCaml](https://img.shields.io/badge/OCaml-orange)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
+<h2 align="left">☁️ Cloud & DevOps</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes Logo" />
+ 
+</div>
 
----
+<h2 align="left">💻 Systems & Tools</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse Logo" />
 
-## ☁️ Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?logo=githubactions)
-
----
-## 💻 Systems & Tools
-
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu)
-![Bash](https://img.shields.io/badge/Bash-orange?logo=gnubash)
-![Git](https://img.shields.io/badge/Git-yellow?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-purple?logo=visualstudiocode)
-![Eclipse](https://img.shields.io/badge/Eclipse-orange?logo=eclipseide)
-![Modelio](https://img.shields.io/badge/Modelio-grey)
-
+</div>
 
 ---
 
