@@ -26,5 +26,11 @@ jobs:
           git config --global user.name "Tassadit"
           git config --global user.email "tassaditaksas03@gmail.com"
           git add README.md
-          git commit -m "Auto update README" || echo "No changes"
-          git push
+          git diff --cached --quiet && exit 0
+
+          git commit -m "Auto update README"
+
+          git pull --rebase origin main
+
+          git push origin main
+          
