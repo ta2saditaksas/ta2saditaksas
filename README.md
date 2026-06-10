@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Tassadit</h1>
-<h3 align="center">💻 Computer Science Student | Building cool things & exploring AI</h3>
+<h3 align="center"> Computer Science Student | Building cool things & exploring AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ta2saditaksas&label=Profile%20views&color=0e75b6&style=flat" />
