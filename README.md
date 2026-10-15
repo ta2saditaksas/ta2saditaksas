@@ -9,7 +9,7 @@
 
 ##  About Me
 
--  Computer Science student @ Sorbonne Université
+-  Computer Science student 
 -  Always learning something new  
 -  Fun fact: My name means HAPPPYYYYY in my native language (❁´◡`❁) 
 
